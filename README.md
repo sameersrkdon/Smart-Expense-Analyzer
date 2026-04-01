@@ -135,8 +135,22 @@ Thank you all for, your contributions. Your contributions hold immense value for
   <a href="https://github.com/sree-hari-s/Expense-Tracker/graphs/contributors">
     <img src="https://contrib.rocks/image?repo=sree-hari-s/Expense-Tracker" alt="Contributors" />
   </a>
+
 </p>
 
 ## License
 
 This project is licensed under the terms of the [MIT License](LICENSE).
+
+
+## 📸 Screenshots
+
+![1](screenshots/img1.png)
+![2](screenshots/img2.png)
+![3](screenshots/img3.png)
+![4](screenshots/img4.png)
+![5](screenshots/img5.png)
+![6](screenshots/img6.png)
+
+
+
